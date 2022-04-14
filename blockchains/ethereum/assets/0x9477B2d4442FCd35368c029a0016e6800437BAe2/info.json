@@ -1,0 +1,11 @@
+{
+    "name": "Hydro Token",
+    "symbol": "HYDRO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Hydro is a decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions.",
+    "website": "https://www.projecthydro.org",
+    "explorer": "https://etherscan.io/token/0x9477b2d4442fcd35368c029a0016e6800437bae2",
+    "status": "active",
+    "id": "0x9477b2d4442fcd35368c029a0016e6800437bae2"
+}
